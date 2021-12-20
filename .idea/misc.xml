@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ina/KULIAH/Sem V/PBP A/UAS/UAS_PBP_A_Kelompok8/app/src/main/res/drawable-v24/ic_baseline_emoji_food_beverage_24.xml" value="0.19907407407407407" />
+        <entry key="..\:/ina/KULIAH/Sem V/PBP A/UAS/UAS_PBP_A_Kelompok8/app/src/main/res/drawable/ic_menu.xml" value="0.19907407407407407" />
+        <entry key="..\:/ina/KULIAH/Sem V/PBP A/UAS/UAS_PBP_A_Kelompok8/app/src/main/res/layout/activity_edit.xml" value="0.209375" />
+        <entry key="..\:/ina/KULIAH/Sem V/PBP A/UAS/UAS_PBP_A_Kelompok8/app/src/main/res/layout/activity_login.xml" value="0.209375" />
+        <entry key="..\:/ina/KULIAH/Sem V/PBP A/UAS/UAS_PBP_A_Kelompok8/app/src/main/res/layout/activity_register.xml" value="0.209375" />
+        <entry key="..\:/ina/KULIAH/Sem V/PBP A/UAS/UAS_PBP_A_Kelompok8/app/src/main/res/layout/fragment_add_edit_menu.xml" value="0.209375" />
+        <entry key="..\:/ina/KULIAH/Sem V/PBP A/UAS/UAS_PBP_A_Kelompok8/app/src/main/res/layout/fragment_home.xml" value="0.209375" />
+        <entry key="..\:/ina/KULIAH/Sem V/PBP A/UAS/UAS_PBP_A_Kelompok8/app/src/main/res/layout/item_list.xml" value="0.209375" />
+        <entry key="..\:/ina/KULIAH/Sem V/PBP A/UAS/UAS_PBP_A_Kelompok8/app/src/main/res/layout/item_menu.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

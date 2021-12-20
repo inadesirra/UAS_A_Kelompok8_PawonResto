@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298237235137",
+    "project_id": "pawonresto-e2331",
+    "storage_bucket": "pawonresto-e2331.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298237235137:android:a4be16f670a0c4c508e940",
+        "android_client_info": {
+          "package_name": "com.example.pawonresto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298237235137-4jfrnvl9t793am3kc47c9o3ip10um0er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACO7SlrC9IvDPvKFUWv2ageFSz8nGb34U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298237235137-4jfrnvl9t793am3kc47c9o3ip10um0er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

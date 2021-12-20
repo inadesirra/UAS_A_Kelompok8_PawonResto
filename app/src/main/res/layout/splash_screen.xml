@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:id="@+id/splash"
+    tools:context=".SplashScreen">
+
+    <ImageView
+        android:id="@+id/splash_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="400dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="40dp"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/tv_welcome1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/splash_logo"
+        android:text="GOOD FOOD"
+        style="@style/TextAppearance.MaterialComponents.Headline4"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/tv_welcome2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_welcome1"
+        android:text="GOOD HEALTH"
+        style="@style/TextAppearance.MaterialComponents.Headline4"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/tv_welcome"
+        style="@style/TextAppearance.MaterialComponents.Headline5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_welcome2"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Hi, user"
+        android:visibility="gone" />
+</RelativeLayout>

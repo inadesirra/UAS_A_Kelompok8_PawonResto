@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PawonResto</string>
+    <string name="home">Home</string>
+    <string name="menu">Menu</string>
+    <string name="penawaran">Penawaran</string>
+    <string name="notifications">Notifications</string>
+    <string name="location">Location</string>
+
+    <string name="mapbox_access_token">pk.eyJ1IjoidGhlcmVzaWF3YWh5dXR3IiwiYSI6ImNrdWp2bndiZDFqbDMyb3J1Ym4xeG13amUifQ.pvKzvJ6jsJusaC3xO4I24A</string>
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="selamat_datang_nama_pengguna">Selamat Datang, nama pengguna</string>
+    <string name="logout">Logout</string>
+    <string name="edit_profil">Edit Profil</string>
+    <string name="ambil_gambar">Ambil Gambar</string>
+    <string name="konfirmasi">Konfirmasi</string>
+    <string name="tambah_menu">Tambah Menu </string>
+    <string name="tambah_penawaran">Tambah Penawaran </string>
+    <string name="edit_menu">Edit Menu </string>
+    <string name="loading_text">loading</string>
+    <string name="edit_penawaran">Edit Penawaran</string>
+
+</resources>
